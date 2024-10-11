@@ -7,13 +7,16 @@ Aspiring data scientist passionate about predictive modeling and machine learnin
 - **Pursuing a Master's in Data Science:** Furthering my education in tandem with pursuing a full-time career in data.
 - **Enhancing my Python and SQL Skills:** Focusing on writing efficent, scalable code for data analysis, database management, and automating data workflows. 
 
+
 🌱 I’m constantly learning
 - Advanced machine learning algorithms and their applications to real-world data.
 - Efficient data retrieval and processing using Python and Pandas.
 - Advanced data visualization techniques to tell stories through data.
 
+
 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/brh425/)
+
 
 ⚡ Fun facts
 - I am an avid hiker and distance runner.
