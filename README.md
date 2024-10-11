@@ -3,9 +3,9 @@
 Aspiring data scientist passionate about predictive modeling and machine learning. Background in Economics and Statistics with a focus on transitioning into data science full-time. 
 
 🔭 I’m currently working on
-- **Building a comprehenseive data science portfolio:** Deepening my knowledge by working on relevant projects I am passionate about.
-- **Pursuing a master's in data science:** Furthering my education in tandem with pursuing a full-time career in data.
-- **Enhancing my Python and SQL skills:** Focusing on writing efficent, scalable code for data analysis, database management, and automating data workflows. 
+- **Building a Comprehenseive Data Science Portfolio:** Deepening my knowledge by working on relevant projects I am passionate about.
+- **Pursuing a Master's in Data Science:** Furthering my education in tandem with pursuing a full-time career in data.
+- **Enhancing my Python and SQL Skills:** Focusing on writing efficent, scalable code for data analysis, database management, and automating data workflows. 
 
 🌱 I’m constantly learning
 - Advanced machine learning algorithms and their applications to real-world data.
